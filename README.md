@@ -2,6 +2,7 @@
 Calc.js
 
 Calculadora 🧮
+
 Este é um projeto de uma calculadora simples desenvolvida em JavaScript, HTML e CSS. 
 A calculadora permite que você faça operações básicas de adição, subtração, multiplicação e divisão, além de cálculos mais complexos usando expressões matemáticas.
 
